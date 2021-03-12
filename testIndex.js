@@ -7,3 +7,6 @@ h1.innerText = "jojojo"
 
 span1.innerText ="bliubliubliu"
 h1.innerText = "joujoujou"
+
+console.log(span1)
+console.log(h1)
